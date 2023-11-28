@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.autorization {
+    margin-left: 750px;
+}
+.back {
+    margin-right: 1700px;
+}
+.reg {
+    margin-left: 900px;
+}
+.reg2{
+    margin-right: 400px;
+}
+
+header {
+    background-color: #232323;
+    color: White;
+    text-align: center;
+    padding: 1em;
+}
+footer {
+    background-color: #232323;
+    color: White;
+    text-align: center;
+    padding: 1em;
+}
+.content {
+    background-color: #868686;
+    color: White;
+    padding: 20px;
+}
+.site-footer .container {
+    text-align: center;
+}
+
+.site-footer r {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 20px;
+}
+a {
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+    color: #565656;
+    padding: 1em;
+}
