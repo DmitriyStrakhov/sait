@@ -4,17 +4,15 @@ body {
     padding: 0;
 }
 
-.autorization {
-    margin-left: 750px;
+.comment {
+    margin-left: 880px;
 }
 .back {
     margin-right: 1700px;
 }
-.reg {
-    margin-left: 900px;
-}
+
 .reg2{
-    margin-right: 400px;
+    margin-left: 800px;
 }
 
 header {
@@ -48,4 +46,8 @@ a {
     background-color: rgb(255, 255, 255);
     color: #565656;
     padding: 1em;
+}
+h2 {
+    border-bottom: 2px;
+    padding-bottom: 12px;
 }
